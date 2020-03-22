@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App name</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="you_found_it">You found it!</string>
+    <string name="back_to_map">Back to map</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="go_to_map">Go to map</string>
+
+</resources>
